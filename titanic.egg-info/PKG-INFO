@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: titanic
+Version: 0.1
+Summary: Analysis of the Titanic dataset
+Home-page: https://github.com/<github_account>/titanic_datascience
+Author: Scott Lew
+Author-email: swl2265@gmail.com
+License: MIT
+Description: 
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
