@@ -19,6 +19,13 @@ setup(
     classifiers=[
         'Programming Language :: Python :: 3',
     ],
+    install_requires=[
+		...
+        'pytest>=4.3.1',
+        'pytest-runner>=4.4',
+    ],
+    setup_requires=['pytest-runner'],
+    tests_require=['pytest'],
     # Substitute <github_account> with the name of your GitHub account
     url='https://github.com/<github_account>/titanic_datascience',
     author='Scott Lew',  # Substitute your name
